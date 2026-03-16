@@ -191,3 +191,28 @@
 .options {
     width: 95%;
 }
+
+.hero {
+    background-image: url("hero.jpg");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 200px;
+}
+
+.hero-msg {
+    height: 40px;
+    width: 80%;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-msg a {
+    text-decoration: none;
+    color: #007185;
+}
