@@ -254,3 +254,48 @@
 .boxcontent p {
     color: #007185;
 }
+
+/* footer */
+
+.back {
+    height: 40px;
+    background-color: #314458;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+.last {
+    height: 350px;
+    background-color: #212e3d;
+    color: white;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.list-style{
+    padding-top: 20px;
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 0.8rem;
+    font-weight: lighter;
+    text-decoration: none;
+    
+}
+
+.list-style li:hover{
+    text-decoration: underline;
+}
+
+.last-box {
+    width: 20%;
+    display: block;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
