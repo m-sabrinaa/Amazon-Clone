@@ -1,2 +1,10 @@
-# Amazon-Clone
-This project is a clone of the Amazon homepage created for educational purposes only. It is not affiliated with or endorsed by Amazon.
+# Amazon Clone
+
+A simple Amazon homepage clone built using **HTML5** and **CSS3** for learning purposes.
+
+## Tech Stack
+
+- HTML5
+- CSS3
+
+> **Note:** This is a frontend-only educational project and is not affiliated with Amazon.
